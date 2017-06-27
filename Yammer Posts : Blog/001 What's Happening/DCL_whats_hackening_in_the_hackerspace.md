@@ -1,0 +1,22 @@
+
+What's Hackening in the HackerSpace? 
+
+As the Hackerspace continues to find its legs in the New Westminster Campus library, I wanted to give a short update about what we're up to in the space. It's been a good first two weeks, with lots of students popping in, and faculty too,  asking questions. Students are gradually finding out we exist and we're doing our best to help them use the space and generally become familiar with what the space has to offer. It's been fun to hear how students are interested in using the space and even more fun to see their reactions when they find out they can actually use the stuff in it. One of the early takeaways is that because the HackerSpace is not tied to a particular program or curriculum outcomes, it encourages students from across the College to drop in and ask questions. We've had students from Nursing, Languages, Commerce, and Social Sciences pop by along with the more expected Computer Sciences and Technology students. Some want to make 3D-printed game pieces, some want help setting up a Raspberry Pi they already own, others want to find out about "traditional" video games, and some just want to know what's available in the space. In short, there's a real diversity of queries and possible projects. I really enjoy how the HackerSpace challenges what student's expect to see in the College library.  
+
+As far as work underway in the HackerSpace, we're well along building what we call a Minimum Viable Arcade Machine (MVAM). We've installed the software and coded up the Raspberry Pi to emulate old arcade-style video games from the 1980s (and some from the 90s). We've purchased and installed the massive game controller for the  console, which will allow us to emulate games that used a trackball as well as a diverse set of gaming media--pinball machines, table tops, and uprights. At the same time, the controller will allow for two-player play and encourage the kind of competitive replaying we're aiming for with the project. The box that will hold all the gear, and make the MVAM look like a traditional 80s arcade machine is on its way. 
+
+The project is a fun one from both a technological and social perspective. The students who are working on the project have never seen the games we're emulating given that they were born years after the games were obsolete. One of the research students working on the project had never seen or played *Ms. Pacman*, and another exclaimed "what do I even do?" when confronted with an Atari 2600-version of *Space Invaders.* Recreating a space for playing the games with the MVAM is one thing, but it also creates a space for conversations about gaming history, what arcades used to look like and the people that were in them, and the mechanics of playing such games (very "analogue" compared to what most of our students have grown up with). There's a great combination of sharing contextual knowledge between those who were "there" and the youthful glee of discovery for those who weren't. One student said it best when she noted that "what's great about playing video games this way is that you can talk to the other player who's right next to you, not on a headset who-knows-where." 
+
+The MVAM has attracted some attention and brought individuals into the HackerSpace, which is great. At the same time, it is encouraging interesting research work, giving students some technical know-how coupled with a history lesson, and finally everyone who sees it--or plays with it--has a moment of fun. As one student giggled while feeling her way through *Galaga*: "Ok, this is too much fun." This kind of cross-sector learning, when you don't even know it's happening, is what the HackerSpace is trying to provide a space for--learning without set outcomes. There's a lot left to do: we haven't figured out the trackball, or programmed some game modules, or found an adequate monitor, but that'll come. What's important is that the ongoing project in the Hackerspace is yielding some interesting discussions, cultural moments, and contextual collisions (especially when we play *Asteroids*). 
+
+We're open, and **any** member of the College community can drop by the Hackerspace and talk to someone--or play a round of *Missile Command* (without the trackball for now) during our open hours:
+
+Tuesday: 10:30 - 12:30 
+Thursday: 10:30 - 2: 30
+Friday: 10:30 - 12:30
+
+Also, if you have a project you think you want to tackle and want to tackle it in the HackerSpace, we'd love to hear about it. 
+
+
+
+   
