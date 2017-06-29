@@ -1,0 +1,495 @@
+﻿How To Write A Business Plan
+
+
+Executive Summary
+Within the overall outline of the business plan, the executive summary will follow the title page. The summary should tell the reader what you want. This is very important. All too often, what the business owner desires is buried on page eight. Clearly state what you're asking for in the summary.
+
+Business Description
+The business description usually begins with a short description of the industry. When describing the industry, discuss the present outlook as well as future possibilities. You should also provide information on all the various markets within the industry, including any new products or developments that will benefit or adversely affect your business.
+
+Market Strategies
+Market strategies are the result of a meticulous market analysis. A market analysis forces the entrepreneur to become familiar with all aspects of the market so that the target market can be defined and the company can be positioned in order to garner its share of sales.
+
+Competitive Analysis
+The purpose of the competitive analysis is to determine the strengths and weaknesses of the competitors within your market, strategies that will provide you with a distinct advantage, the barriers that can be developed in order to prevent competition from entering your market, and any weaknesses that can be exploited within the product development cycle.
+
+Design & Development Plan
+The purpose of the design and development plan section is to provide investors with a description of the product's design, chart its development within the context of production, marketing and the company itself, and create a development budget that will enable the company to reach its goals.
+
+Operations & Management Plan
+The operations and management plan is designed to describe just how the business functions on a continuing basis. The operations plan will highlight the logistics of the organization such as the various responsibilities of the management team, the tasks assigned to each division within the company, and capital and expense requirements related to the operations of the business.
+
+Financial Factors
+Financial data is always at the back of the business plan, but that doesn't mean it's any less important than up-front material such as the business concept and the management team.
+
+
+
+
+
+
+Cafe - Internet Cafe
+JavaNet Internet Cafe
+
+
+Executive Summary
+
+JavaNet, unlike a typical cafe, will provide a unique forum for communication and entertainment through the medium of the Internet. JavaNet is the answer to an increasing demand. The public wants: (1) access to the methods of communication and volumes of information now available on the Internet, and (2) access at a cost they can afford and in such a way that they aren't socially, economically, or politically isolated. JavaNet's goal is to provide the community with a social, educational, entertaining, atmosphere for worldwide communication.
+
+This business plan is prepared to obtain financing in the amount of $24,000. The supplemental financing is required to begin work on site preparation and modifications, equipment purchases, and to cover expenses in the first year of operations. Additional financing has already been secured in the form of: (1) $24,000 from the Oregon Economic Development Fund (2) $19,000 of personal savings from owner Cale Bruckner (3) $36,000 from three investors (4) and $9,290 in the form of short-term loans.
+
+JavaNet will be incorporated as an LLC corporation. This will shield the owner Cale Bruckner, and the three outside investors, Luke Walsh, Doug Wilson, and John Underwood, from issues of personal liability and double taxation. The investors will be treated as shareholders and therefore will not be liable for more than their individual personal investment of $12,000 each.
+
+The financing, in addition to the capital contributions from the owner, shareholders and the Oregon Economic Development Fund, will allow JavaNet to successfully open and maintain operations through year one. The large initial capital investment will allow JavaNet to provide its customers with a full featured Internet cafe. A unique, upscale, and innovative environment is required to provide the customers with an atmosphere that will spawn socialization. Successful operation in year one will provide JavaNet with a customer base that will allow it to be self sufficient in year two.
+
+
+
+1.1 Objectives
+JavaNet's objectives for the first three years of operation include:
+
+The creation of a unique, upscale, innovative environment that will differentiate JavaNet from local coffee houses.
+Educating the community on what the Internet has to offer.
+The formation of an environment that will bring people with diverse interests and backgrounds together in a common forum.
+Good coffee and bakery items at a reasonable price.
+Affordable access to the resources of the Internet and other online services.
+
+1.2 Keys to Success
+The keys to the success for JavaNet are:
+
+The creation of a unique, innovative, upscale atmosphere that will differentiate JavaNet from other local coffee shops and future Internet cafes.
+The establishment of JavaNet as a community hub for socialization and entertainment.
+The creation of an environment that won't intimidate the novice user. JavaNet will position itself as an educational resource for individuals wishing to learn about the benefits the Internet has to offer.
+Great coffee and bakery items.
+
+
+1.3 Mission
+As the popularity of the Internet continues to grow at an exponential rate, easy and affordable access is quickly becoming a necessity of life. JavaNet provides communities with the ability to access the Internet, enjoy a cup of coffee, and share Internet experiences in a comfortable environment. People of all ages and backgrounds will come to enjoy the unique, upscale, educational, and innovative environment that JavaNet provides.
+
+1.4 Risks
+
+The risks involved with starting JavaNet are:
+
+Will there be a demand for the services offered by JavaNet in Eugene?
+Will the popularity of the Internet continue to grow, or is the Internet a fad?
+Will individuals be willing to pay for the service JavaNet offers?
+Will the cost of accessing the Internet from home drop so significantly that there will not be a market for Internet Cafes such as JavaNet?
+
+
+
+Services
+JavaNet will provide full access to email, WWW, FTP, Usenet and other Internet applications such as Telnet and Gopher. Printing, scanning, and introductory courses to the Internet will also be available to the customer. JavaNet will also provide customers with a unique and innovative environment for enjoying great coffee, specialty beverages, and bakery items.
+
+Edit This Plan
+3.1 Competitive Comparison
+JavaNet will be the first Internet cafe in Eugene. JavaNet will differentiate itself from the strictly-coffee cafes in Eugene by providing its customers with Internet and computing services.
+
+3.2 Service Description
+JavaNet will provide its customers with full access to the Internet and common computer software and hardware. Some of the Internet and computing services available to JavaNet customers are listed below:
+
+Access to external POP3 email accounts.
+Customers can sign up for a JavaNet email account. This account will be managed by JavaNet servers and accessible from computer systems outside the JavaNet network.
+FTP, Telnet, Gopher, and other popular Internet utilities will be available.
+Access to Netscape or Internet Explorer browser.
+Access to laser and color printing.
+Access to popular software applications like Adobe PhotoShop and Microsoft Word.
+JavaNet will also provide its customers with access to introductory Internet and email classes. These classes will be held in the afternoon and late in the evening. By providing these classes, JavaNet will build a client base familiar with its services. The computers, Internet access, and classes wouldn't mean half as much if taken out of the environment JavaNet will provide. Good coffee, specialty drinks, bakery goods, and a comfortable environment will provide JavaNet customers with a home away from home. A place to enjoy the benefits of computing in a comfortable and well-kept environment.
+
+3.3 Fulfillment
+JavaNet will obtain computer support and Internet access from Bellevue Computers located in Eugene. Bellevue will provide the Internet connections, network consulting, and the hardware required to run the JavaNetwork. Allann Brothers will provide JavaNet with coffee equipment, bulk coffee, and paper supplies. At this time, a contract for the bakery items has not been completed. JavaNet is currently negotiating with Humble Bagel and the French Horn to fulfill the requirement.
+
+3.4 Technology
+JavaNet will invest in high-speed computers to provide its customers with a fast and efficient connection to the Internet. The computers will be reliable and fun to work with. JavaNet will continue to upgrade and modify the systems to stay current with communications technology. One of the main attractions associated with Internet cafes, is the state of the art equipment available for use. Not everyone has a Pentium PC in their home or office.
+
+3.5 Future Services
+As JavaNet grows, more communications systems will be added. The possibility of additional units has been accounted for in the current floor plan. As the demand for Internet connectivity increases, along with the increase in competition, JavaNet will continue to add new services to keep its customer base coming back for more.
+
+
+
+Market Analysis Summary
+JavaNet is faced with the exciting opportunity of being the first-mover in the Eugene cyber-cafe market. The consistent popularity of coffee, combined with the growing interest in the Internet, has been proven to be a winning concept in other markets and will produce the same results in Eugene.
+
+Edit This Plan
+4.1 Target Market Segment Strategy
+JavaNet intends to cater to people who want a guided tour on their first spin around the Internet and to experienced users eager to indulge their passion for computers in a social setting. Furthermore, JavaNet will be a magnet for local and traveling professionals who desire to work or check their email messages in a friendly atmosphere. These professionals will either use JavaNet's PCs, or plug their notebooks into Internet connections. JavaNet's target market covers a wide range of ages: from members of Generation X who grew up surrounded by computers, to Baby Boomers who have come to the realization that people today cannot afford to ignore computers.
+
+4.1.1 Market Trends
+A market survey was conducted in the Fall of 1996. Key questions were asked of fifty potential customers. Some key findings include:
+
+35 subjects said they would be willing to pay for access to the Internet.
+Five dollars an hour was the most popular hourly Internet fee.
+24 subjects use the Internet to communicate with others on a regular basis.
+4.1.2 Market Needs
+Factors such as current trends, addiction, and historical sales data ensure that the high demand for coffee will remain constant over the next five years. The rapid growth of the Internet and online services, that has been witnessed worldwide, is only the tip of the iceberg. The potential growth of the Internet is enormous, to the point where one day, a computer terminal with an online connection will be as common and necessary as a telephone. This may be 10 or 20 years down the road, but for the next five years, the online service provider market is sure to experience tremendous growth. Being the first cyber-cafe in Eugene, JavaNet will enjoy the first-mover advantages of name recognition and customer loyalty. Initially, JavaNet will hold a 100 percent share of the cyber-cafe market in Eugene. In the next five years, competitors will enter the market. JavaNet has set a goal to maintain greater than a 50 percent market share.
+
+4.2 Market Segmentation
+JavaNet's customers can be divided into two groups. The first group is familiar with the Internet and desires a progressive and inviting atmosphere where they can get out of their offices or bedrooms and enjoy a great cup of coffee. The second group is not familiar with the Internet, yet, and is just waiting for the right opportunity to enter the online community. JavaNet's target market falls anywhere between the ages of 18 and 50. This extremely wide range of ages is due to the fact that both coffee and the Internet appeal to a variety of people. In addition to these two broad categories, JavaNet's target market can be divided into more specific market segments. The majority of these individuals are students and business people. See the Market Analysis chart and table below for more specifics.
+
+
+Market Analysis
+Year 1	Year 2	Year 3	Year 4	Year 5	
+Potential Customers	Growth						CAGR
+University Students	4%	15,000	15,600	16,224	16,873	17,548	4.00%
+Office Workers	3%	25,000	25,750	26,523	27,319	28,139	3.00%
+Seniors	5%	18,500	19,425	20,396	21,416	22,487	5.00%
+Teenagers	2%	12,500	12,750	13,005	13,265	13,530	2.00%
+Other	0%	25,000	25,000	25,000	25,000	25,000	0.00%
+Total	2.68%	96,000	98,525	101,148	103,873	106,704	2.68%
+4.3 Service Business Analysis
+The retail coffee industry in Eugene experienced rapid growth at the beginning of the decade and is now moving into the mature stage of its life cycle. Many factors contribute to the large demand for good coffee in Eugene. The University is a main source of demand for coffee retailers. The climate in Eugene is extremely conducive to coffee consumption. Current trends in the Northwest reflect the popularity of fresh, strong, quality coffee and specialty drinks. Eugene is a haven for coffee lovers.
+
+The popularity of the Internet is growing exponentially. Those who are familiar with the Internet are well aware of how fun and addictive surfing the Net can be. Those who have not yet experienced the Internet, need a convenient, relaxed atmosphere where they can feel comfortable learning about and utilizing the current technologies. JavaNet seeks to provide its customers with affordable Internet access in an innovative and supportive environment.
+
+Due to intense competition, cafe owners must look for ways to differentiate their place of business from others in order to achieve and maintain a competitive advantage. The founder of JavaNet realizes the need for differentiation and strongly believes that combining a cafe with complete Internet service is the key to success. The fact that no cyber-cafes are established in Eugene, presents JavaNet with a chance to enter the window of opportunity and enter into a profitable niche in the market.
+
+4.3.1 Competition and Buying Patterns
+The main competitors in the retail coffee segment are Cafe Paradisio, Full City, Coffee Corner and Allann Bros. These businesses are located in or near the downtown area, and target a similar segment to JavaNet's (i.e. educated, upwardly-mobile students and business people).
+
+Competition from online service providers comes from locally-owned businesses as well as national firms. There are approximately eight, local, online service providers in Eugene. This number is expected to grow with the increasing demand for Internet access. Larger, online service providers, such as AOL and CompuServe are also a competitive threat to JavaNet. Due to the nature of the Internet, there are no geographical boundaries restricting competition.
+
+4.3.2 Business Participants
+There are approximately 16 coffee wholesalers in Lane County. These wholesalers distribute coffee and espresso beans to over 20 retailers in the Eugene area. Competition in both channels creates an even amount of bargaining power between buyers and suppliers resulting in extremely competitive pricing. Some of these major players in the industry (i.e. Allann Brothers Coffee Co., Inc. and Coffee Corner Ltd.) distribute and retail coffee products.
+
+The number of online service providers in Eugene is approximately eight and counting. These small, regional service providers use a number of different pricing strategies. Some charge a monthly fee, while others charge hourly and/or phone fees. Regardless of the pricing method used, obtaining Internet access through one of these firms can be expensive. Larger Internet servers such as America Online (AOL), Prodigy, and CompuServe, are also fighting for market share in this rapidly growing industry. These service providers are also rather costly for the average consumer. Consumers who are not convinced they would frequently and consistently travel the Internet, will not be willing to pay these prices.
+
+4.3.3 Distributing a Service
+The dual product/service nature of JavaNet's business faces competition on two levels. JavaNet competes not only with coffee retailers, but also with Internet service providers. The good news is that JavaNet does not currently face any direct competition from other cyber-cafes in the Eugene market. There are a total of three cyber-cafes in the state of Oregon: one located in Portland and two in Ashland.
+
+Heavy competition between coffee retailers in Eugene creates an industry where all firms face the same costs. There is a positive relationship between price and quality of coffee. Some coffees retail at $8/pound while other, more exotic beans may sell for as high as $16/pound. Wholesalers sell beans to retailers at an average of a 50 percent discount. For example, a pound of Sumatran beans wholesales for $6.95 and retails for $13.95. And as in most industries, price decreases as volume increases.
+
+Management Summary
+JavaNet is owned and operated by Mr. Cale Bruckner. The company, being small in nature, requires a simple organizational structure. Implementation of this organizational form calls for the owner, Mr. Bruckner, to make all of the major management decisions in addition to monitoring all other business activities.
+
+Edit This Plan
+6.1 Personnel Plan
+The staff will consist of six part-time employees working thirty hours a week at $5.50 per hour. In addition, one full-time technician (who is more technologically oriented to handle minor terminal repairs/inquiries) will be employed to work forty hours a week at $10.00 per hour. The three private investors, Luke Walsh, Doug Wilson and John Underwood will not be included in management decisions. This simple structure provides a great deal of flexibility and allows communication to disperse quickly and directly. Because of these characteristics, there are few coordination problems seen at JavaNet that are common within larger organizational chains. This strategy will enable JavaNet to react quickly to changes in the market.
+
+Personnel Plan
+Year 1	Year 2	Year 3
+Owner	$24,000	$26,400	$29,040
+Part Time 1	$7,920	$7,920	$7,920
+Part Time 2	$7,920	$7,920	$7,920
+Part Time 3	$7,920	$7,920	$7,920
+Part Time 4	$7,920	$7,920	$7,920
+Part Time 5	$7,920	$7,920	$7,920
+Part Time 6	$3,960	$7,920	$7,920
+Technician	$21,731	$23,904	$26,294
+Manager	$4,000	$24,000	$26,400
+Total People	9	9	9
+Total Payroll	$93,291	$121,824	$129,254
+
+
+Financial Plan
+The following sections lay out the details of our financial plan for the next three years.
+
+Edit This Plan
+7.1 Start-up Funding
+This business plan is prepared to obtain financing in the amount of $24,000. The supplemental financing is required to begin work on site preparation and modifications, equipment purchases, and to cover expenses in the first year of operations.
+
+Additional financing has already been secured as follows:
+
+$24,000 from the Oregon Economic Development Fund
+$19,000 of personal savings from owner Cale Bruckner
+$36,000 from three investors
+and $9,290 in the form of short-term loans
+Start-up Funding
+Start-up Expenses to Fund	$62,290
+Start-up Assets to Fund	$26,000
+Total Funding Required	$88,290
+Assets	
+Non-cash Assets from Start-up	$2,000
+Cash Requirements from Start-up	$24,000
+Additional Cash Raised	$0
+Cash Balance on Starting Date	$24,000
+Total Assets	$26,000
+Liabilities and Capital	
+Liabilities	
+Current Borrowing	$9,290
+Long-term Liabilities	$24,000
+Accounts Payable (Outstanding Bills)	$0
+Other Current Liabilities (interest-free)	$0
+Total Liabilities	$33,290
+Capital	
+Planned Investment	
+Cale Bruckner	$19,000
+Luke Walsh	$12,000
+Doug Wilson	$12,000
+John Underwood	$12,000
+Additional Investment Requirement	$0
+Total Planned Investment	$55,000
+Loss at Start-up (Start-up Expenses)	($62,290)
+Total Capital	($7,290)
+Total Capital and Liabilities	$26,000
+Total Funding	$88,290
+7.2 Important Assumptions
+Basic assumptions are presented in the table below.
+
+General Assumptions
+Year 1	Year 2	Year 3
+Plan Month	1	2	3
+Current Interest Rate	8.00%	8.00%	8.00%
+Long-term Interest Rate	10.00%	10.00%	10.00%
+Tax Rate	30.00%	30.00%	30.00%
+Other	0	0	0
+7.3 Key Financial Indicators
+Important benchmark data is presented in the chart below.
+
+
+7.4 Break-even Analysis
+Break-even data is presented in the chart and table below.
+
+
+Break-even Analysis
+Monthly Units Break-even	7,294
+Monthly Revenue Break-even	$18,462
+Assumptions:	
+Average Per-Unit Revenue	$2.53
+Average Per-Unit Variable Cost	$0.63
+Estimated Monthly Fixed Cost	$13,847
+7.5 Projected Profit and Loss
+Payroll Expense: The founder of JavaNet, Cale Bruckner, will receive a salary of $24,000 in year one, $26,400 in year two, and $29,040 in year three. JavaNet intends to hire six part-time employees by the end of year one at $5.75/hour and a full-time technician at $10.00/hour.
+
+Rent Expense: JavaNet is leasing a 1700 square foot facility at $.85/sq. foot. The lease agreement JavaNet signed specifies that we pay $2,000/month for a total of 36 months. At the end of the third year, the lease is open for negotiations and JavaNet may or may not re-sign the lease depending on the demands of the lessor.
+
+Utilities Expense: As stated in the contract, the lessor is responsible for the payment of utilities including gas, garbage disposal, and real estate taxes. The only utilities expense that JavaNet must pay is the phone bill generated by fifteen phone lines; thirteen will be dedicated to modems and two for business purposes. The basic monthly service charge for each line provided by US West is $17.29. The 13 lines used to connect the modems will make local calls to the network provided by Bellevue resulting in a monthly charge of $224.77. The two additional lines used for business communication will cost $34.58/month plus long distance fees. JavaNet assumes that it will not make more than $40.00/month in long distance calls. Therefore, the total cost associated with the two business lines is estimated at $74.58/month and the total phone expense at $299.35/month. In addition, there will be an additional utility expense of $800 for estimated EWEB bills.
+
+Marketing Expense: JavaNet will allocate $33,750 for promotional expenses over the first year. These dollars will be used for advertising in local newspapers in order to build consumer awareness. For additional information, please refer to section 5.0 of the business plan.
+
+Insurance Expense: JavaNet has allocated $1,440 for insurance for the first year. As revenue increases in the second and third year of business, JavaNet intends to invest more money for additional insurance coverage.
+
+Depreciation: In depreciating our capital equipment, JavaNet used the Modified Accelerated Cost Recovery Method. We depreciated our computers over a five-year time period and our fixtures over seven years.
+
+Taxes: JavaNet is an LLC and, as an entity, it is not taxed. However, there is a 15% payroll burden.
+
+Detailed Profit and Loss data is presented in the table below.
+
+
+
+
+Pro Forma Profit and Loss
+Year 1	Year 2	Year 3
+Sales	$248,868	$303,544	$313,610
+Direct Cost of Sales	$62,217	$75,886	$78,403
+Other Costs of Sales	$0	$0	$0
+Total Cost of Sales	$62,217	$75,886	$78,403
+Gross Margin	$186,651	$227,658	$235,208
+Gross Margin %	75.00%	75.00%	75.00%
+Expenses			
+Payroll	$93,291	$121,824	$129,254
+Marketing/Promotion	$33,750	$40,000	$43,000
+Depreciation	$0	$0	$0
+Rent	$24,000	$24,000	$24,000
+Utilities	$9,120	$9,120	$9,120
+Insurance	$6,000	$6,000	$6,000
+Payroll Taxes	$0	$0	$0
+Other	$0	$0	$0
+Total Operating Expenses	$166,161	$200,944	$211,374
+Profit Before Interest and Taxes	$20,490	$26,714	$23,834
+EBITDA	$20,490	$26,714	$23,834
+Interest Expense	$2,325	$1,470	$1,100
+Taxes Incurred	$5,450	$7,573	$6,820
+Net Profit	$12,716	$17,671	$15,913
+Net Profit/Sales	5.11%	5.82%	5.07%
+7.6 Projected Cash Flow
+Cash flow data is presented in the chart and table below.
+
+Accounts Payable: JavaNet acquired a $24,000 loan from a bank at a 10% interest rate. The loan will be paid back at $800/month over the next three years. The $9,290 short term loan will be paid back at a rate of 8%.
+
+
+Pro Forma Cash Flow
+Year 1	Year 2	Year 3
+Cash Received			
+Cash from Operations			
+Cash Sales	$248,868	$303,544	$313,610
+Subtotal Cash from Operations	$248,868	$303,544	$313,610
+Additional Cash Received			
+Sales Tax, VAT, HST/GST Received	$0	$0	$0
+New Current Borrowing	$2,000	$5,000	$0
+New Other Liabilities (interest-free)	$0	$0	$0
+New Long-term Liabilities	$0	$0	$0
+Sales of Other Current Assets	$0	$0	$0
+Sales of Long-term Assets	$0	$0	$0
+New Investment Received	$0	$0	$0
+Subtotal Cash Received	$250,868	$308,544	$313,610
+Expenditures	Year 1	Year 2	Year 3
+Expenditures from Operations			
+Cash Spending	$93,291	$121,824	$129,254
+Bill Payments	$133,870	$165,945	$168,467
+Subtotal Spent on Operations	$227,161	$287,769	$297,721
+Additional Cash Spent			
+Sales Tax, VAT, HST/GST Paid Out	$0	$0	$0
+Principal Repayment of Current Borrowing	$9,290	$2,000	$0
+Other Liabilities Principal Repayment	$0	$0	$0
+Long-term Liabilities Principal Repayment	$9,600	$5,000	$4,800
+Purchase Other Current Assets	$0	$0	$0
+Purchase Long-term Assets	$0	$0	$0
+Dividends	$0	$0	$0
+Subtotal Cash Spent	$246,051	$294,769	$302,521
+Net Cash Flow	$4,817	$13,775	$11,089
+Cash Balance	$28,817	$42,592	$53,681
+7.7 Projected Balance Sheet
+Our projected balance sheet is presented in the table below.
+
+Pro Forma Balance Sheet
+Year 1	Year 2	Year 3
+Assets			
+Current Assets			
+Cash	$28,817	$42,592	$53,681
+Inventory	$6,980	$8,514	$8,796
+Other Current Assets	$0	$0	$0
+Total Current Assets	$35,797	$51,106	$62,478
+Long-term Assets			
+Long-term Assets	$0	$0	$0
+Accumulated Depreciation	$0	$0	$0
+Total Long-term Assets	$0	$0	$0
+Total Assets	$35,797	$51,106	$62,478
+Liabilities and Capital	Year 1	Year 2	Year 3
+Current Liabilities			
+Accounts Payable	$13,972	$13,610	$13,868
+Current Borrowing	$2,000	$5,000	$5,000
+Other Current Liabilities	$0	$0	$0
+Subtotal Current Liabilities	$15,972	$18,610	$18,868
+Long-term Liabilities	$14,400	$9,400	$4,600
+Total Liabilities	$30,372	$28,010	$23,468
+Paid-in Capital	$55,000	$55,000	$55,000
+Retained Earnings	($62,290)	($49,574)	($31,904)
+Earnings	$12,716	$17,671	$15,913
+Total Capital	$5,426	$23,096	$39,010
+Total Liabilities and Capital	$35,797	$51,106	$62,478
+Net Worth	$5,426	$23,096	$39,010
+7.8 Business Ratios
+The Standard Industrial Classification (SIC) Code for the Internet Service Provider industry is "Remote data base information retrieval" 7375.9903. We used the report for "Information retrieval services" 7375 to generate the industry profile. As we are also a food cafe we could have used the ratios based on SIC classification 5812, "Eating places".  The combined nature of JavaNet Cafe makes our ratios a blend of the two industries.
+
+Ratio Analysis
+Year 1	Year 2	Year 3	Industry Profile
+Sales Growth	0.00%	21.97%	3.32%	0.90%
+Percent of Total Assets				
+Inventory	19.50%	16.66%	14.08%	2.17%
+Other Current Assets	0.00%	0.00%	0.00%	84.78%
+Total Current Assets	100.00%	100.00%	100.00%	86.95%
+Long-term Assets	0.00%	0.00%	0.00%	13.05%
+Total Assets	100.00%	100.00%	100.00%	100.00%
+Current Liabilities	44.62%	36.41%	30.20%	28.33%
+Long-term Liabilities	40.23%	18.39%	7.36%	16.21%
+Total Liabilities	84.84%	54.81%	37.56%	44.54%
+Net Worth	15.16%	45.19%	62.44%	55.46%
+Percent of Sales				
+Sales	100.00%	100.00%	100.00%	100.00%
+Gross Margin	75.00%	75.00%	75.00%	100.00%
+Selling, General & Administrative Expenses	69.89%	69.18%	69.93%	79.00%
+Advertising Expenses	0.00%	0.00%	0.00%	1.01%
+Profit Before Interest and Taxes	8.23%	8.80%	7.60%	1.62%
+Main Ratios				
+Current	2.24	2.75	3.31	0.00
+Quick	1.80	2.29	2.85	0.00
+Total Debt to Total Assets	84.84%	54.81%	37.56%	0.00%
+Pre-tax Return on Net Worth	334.80%	109.30%	58.28%	0.00%
+Pre-tax Return on Assets	50.74%	49.40%	36.39%	0.00%
+Additional Ratios	Year 1	Year 2	Year 3	
+Net Profit Margin	5.11%	5.82%	5.07%	n.a
+Return on Equity	234.36%	76.51%	40.79%	n.a
+Activity Ratios				
+Inventory Turnover	12.00	9.80	9.06	n.a
+Accounts Payable Turnover	10.58	12.17	12.17	n.a
+Payment Days	27	30	30	n.a
+Total Asset Turnover	6.95	5.94	5.02	n.a
+Debt Ratios				
+Debt to Net Worth	5.60	1.21	0.60	n.a
+Current Liab. to Liab.	0.53	0.66	0.80	n.a
+Liquidity Ratios				
+Net Working Capital	$19,826	$32,496	$43,610	n.a
+Interest Coverage	8.81	18.17	21.67	n.a
+Additional Ratios				
+Assets to Sales	0.14	0.17	0.20	n.a
+Current Debt/Total Assets	45%	36%	30%	n.a
+Acid Test	1.80	2.29	2.85	n.a
+Sales/Net Worth	45.87	13.14	8.04	n.a
+Dividend Payout	0.00	0.00	0.00	n.a
+
+
+
+
+
+
+
+Strategy and Implementation Summary
+JavaNet has three main strategies. The first strategy focuses on attracting novice Internet users. By providing a novice friendly environment, JavaNet hopes to educate and train a loyal customer base.
+
+The second, and most important, strategy focuses on pulling in power Internet users. Power Internet users are extremely familiar with the Internet and its offerings. This group of customers serves an important function at JavaNet. Power users have knowledge and web-browsing experience that novice Internet users find attractive and exciting.
+
+The third strategy focuses on building a social environment for JavaNet customers. A social environment, that provides entertainment, will serve to attract customers that wouldn't normally think about using the Internet. Once on location at JavaNet, these customers that came for the more standard entertainment offerings, will realize the potential entertainment value the Internet can provide.
+
+Edit This Plan
+5.1 Strategy Pyramid
+The following subtopics provide an overview of JavaNet's three key strategies. Strategy pyramid graphics are presented in the appendix of this plan.
+
+5.1.1 Attract Power Internet Users
+JavaNet's second strategy will be focused on attracting power Internet users. Power Internet users provide an important function at JavaNet. JavaNet plans on attracting this type of customer by:
+
+Providing the latest in computing technology.
+Providing scanning and printing services.
+Providing access to powerful software applications.
+5.1.2 Social Hub
+The third strategy focuses on building a social environment for JavaNet customers. A social environment, that provides entertainment, will serve to attract customers that wouldn't normally think about using the Internet. Once on location at JavaNet, these customers that came for the more standard entertainment offerings, will realize the potential entertainment value the Internet can provide.
+
+5.1.3 Attract Novice Internet Users
+JavaNet's first strategy focuses on attracting novice Internet users. JavaNet plans on attracting these customers by:
+
+Providing a novice friendly environment. JavaNet will be staffed by knowledgeable employees focused on serving the customer's needs.
+A customer service desk will always be staffed. If a customer has any type of question or concern, a JavaNet employee will always be available to assist.
+JavaNet will offer introductory classes on the Internet and email. These classes will be designed to help novice users familiarize themselves with these key tools and the JavaNet computer systems.
+5.2 SWOT Analysis
+The SWOT analysis provides us with an opportunity to examine the internal strengths and weaknesses JavaNet must address. It also allows us to examine the opportunities presented to JavaNet as well as potential threats.
+
+JavaNet has a valuable inventory of strengths that will help it succeed. These strengths include: a knowledgeable and friendly staff, state-of-the-art computer hardware, and a clear vision of the market need. Strengths are valuable, but it is also important to realize the weaknesses JavaNet must address. These weaknesses include: a dependence on quickly changing technology, and the cost factor associated with keeping state-of-the art computer hardware.
+
+JavaNet's strengths will help it capitalize on emerging opportunities. These opportunities include, but are not limited to, a growing population of daily Internet users, and the growing social bonds fostered by the new Internet communities. Threats that JavaNet should be aware of include, the rapidly falling cost of Internet access, and emerging local competitors.
+
+5.2.1 Weaknesses
+A dependence on quickly changing technology. JavaNet is a place for people to experience the technology of the Internet. The technology that is the Internet changes rapidly. Product lifecycles are measured in weeks, not months. JavaNet needs to keep up with the technology because a lot of the JavaNet experience is technology.
+
+Cost factor associated with keeping state-of-the-art hardware. Keeping up with the technology of the Internet is an expensive undertaking. JavaNet needs to balance technology needs with the other needs of the business. One aspect of the business can't be sacrificed for the other.
+5.2.2 Opportunities
+Growing population of daily Internet users. The importance of the Internet almost equals that of the telephone. As the population of daily Internet users increases, so will the need for the services JavaNet offers.
+
+Social bonds fostered by the new Internet communities. The Internet is bringing people from across the world together unlike any other communication medium. JavaNet will capitalize on this social trend by providing a place for smaller and local Internet communities to meet in person. JavaNet will grow some of these communities on its own by establishing chat areas and community programs. These programs will be designed to build customer loyalty.
+5.2.3 Threats
+Rapidly falling cost of Internet access. The cost of access to the Internet for home users is dropping rapidly. Internet access may become so cheap and affordable that nobody will be willing to pay for access to it. JavaNet is aware of this threat and will closely monitor pricing.
+
+Emerging local competitors. Currently, JavaNet is enjoying a first-mover advantage in the local cyber-cafe market. However, additional competitors are on the horizon, and we need to be prepared for their entry into the market. Many of our programs will be designed to build customer loyalty, and it is our hope that our quality service and up-scale ambiance won't be easily duplicated.
+5.2.4 Strengths
+Knowledgeable and friendly staff. We've gone to great lengths at JavaNet to find people with a passion for teaching and sharing their Internet experiences. Our staff is both knowledgeable and eager to please.
+
+State-of-the art equipment. Part of the JavaNet experience includes access to state-of-the-art computer equipment. Our customers enjoy beautiful flat-screen displays, fast machines, and high-quality printers.
+
+Upscale ambiance. When you walk into JavaNet, you'll feel the technology. High backed mahogany booths with flat-screen monitors inset into the walls provide a cozy hideaway for meetings and small friendly gatherings. Large round tables with displays viewable from above provide a forum for larger gatherings and friendly "how-to" classes on the Internet. Aluminum track lighting and art from local artists sets the mood. Last, but not least, quality cappuccino machines and a glass pastry display case provide enticing refreshments.
+
+Clear vision of the market need. JavaNet knows what it takes to build an upscale cyber cafe. We know the customers, we know the technology, and we know how to build the service that will bring the two together.
+5.3 Competitive Edge
+JavaNet will follow a differentiation strategy to achieve a competitive advantage in the cafe market. By providing Internet service, JavaNet separates itself from all other cafes in Eugene. In addition, JavaNet provides a comfortable environment with coffee and bakery items, distinguishing itself from other Internet providers in Eugene.
+
+5.4 Marketing Strategy
+JavaNet will position itself as an upscale coffee house and Internet service provider. It will serve high-quality coffee and espresso specialty drinks at a competitive price. Due to the number of cafes in Eugene, it is important that JavaNet sets fair prices for its coffee. JavaNet will use advertising as its main source of promotion. Ads placed in The Register Guard, Eugene Weekly, and the Emerald will help build customer awareness. Accompanying the ad will be a coupon for a free hour of Internet travel. Furthermore, JavaNet will give away three free hours of Internet use to beginners who sign up for an introduction to the Internet workshop provided by JavaNet.
+
+5.4.1 Pricing Strategy
+JavaNet bases its prices for coffee and specialty drinks on the "retail profit analysis" provided by our supplier, Allann Brothers Coffee Co., Inc. Allann Brothers has been in the coffee business for 22 years and has developed a solid pricing strategy.
+
+Determining a fair market, hourly price, for online use is more difficult because there is no direct competition from another cyber-cafe in Eugene. Therefore, JavaNet considered three sources to determine the hourly charge rate. First, we considered the cost to use other Internet servers, whether it is a local networking firm or a provider such as America Online. Internet access providers use different pricing schemes. Some charge a monthly fee, while others charge an hourly fee. In addition, some providers use a strategy with a combination of both pricing schemes. Thus, it can quickly become a high monthly cost for the individual. Second, JavaNet looked at how cyber-cafes in other markets such as Portland and Ashland went about pricing Internet access. Third, JavaNet used the market survey conducted in the Fall of 1996. Evaluating these three factors resulted in JavaNet's hourly price of five dollars.
+
+5.4.2 Promotion Strategy
+JavaNet will implement a pull strategy in order to build consumer awareness and demand. Initially, JavaNet has budgeted $5,000 for promotional efforts which will include advertising with coupons for a free hour of Internet time in local publications and in-house promotions such as offering customers free Internet time if they pay for an introduction to the Internet workshop taught by JavaNet's computer technician.
+
+JavaNet realizes that in the future, when competition enters the market, additional revenues must be allocated for promotion in order to maintain market share.
+
+5.5 Sales Strategy
+As a retail establishment, JavaNet employs people to handle sales transactions. Computer literacy is a requirement for JavaNet employees. If an employee does not possess basic computer skills when they are hired, they are trained by our full-time technician. Our full-time technician is also available for customers in need of assistance. JavaNet's commitment to friendly, helpful service is one of the key factors that distinguishes JavaNet from other Internet cafes.
+
+5.5.1 Sales Forecast
+Sales forecast data is presented in the chart and table below.
+
+Sales: JavaNet is basing their projected coffee and espresso sales on the financial snapshot information provided to them by Allann Bros. Coffee Co. Internet sales were estimated by calculating the total number of hours each terminal will be active each day and then generating a conservative estimate as to how many hours will be purchased by consumers.
+
+Cost of Sales: The cost of goods sold for coffee-related products was determined by the "retail profit analysis" we obtained from Allann Bros. Coffee Co. The cost of bakery items is 20% of the selling price. The cost of Internet access is $660 per month, paid to Bellevue Computers for networking fees. The cost of e-mail accounts is 25% of the selling price.
+
+
+The JavaNet management team has established some basic milestones to keep the business plan priorities in place. Responsibility for implementation falls on the shoulders of Cale Bruckner. This Milestones Table below will be updated as the year progresses using the actual tables. New milestones will be added as the first year of operations commences.
+
+
