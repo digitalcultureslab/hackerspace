@@ -1,6 +1,6 @@
 **List of Materials Wanted / Needed for HackerSpace**
 
-- XTC-3D 3d print coating - (http://www.sculpturesupply.com/detail.php?id=800480&sf=subcategory&vl=XTC-3D+Print+Epoxy+Coating&cat=Epoxy+Systems)
+- XTC-3D 3d print coating - (http://www.sculpturesupply.com/detail.php?id=800480&sf=subcategory&vl=XTC-3D+Print+Epoxy+Coating&cat=Epoxy+Systems) - Ordered by Dixon July 31st 2017. 
 
 - We would like a Prusa I3 kit - (http://shop.prusa3d.com/en/3d-printers/59-original-prusa-i3-mk2-kit.html)
 	- Waiting for a budget check to see whether we can afford this...
